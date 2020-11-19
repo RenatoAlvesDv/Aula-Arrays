@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\bin\Debug\netcoreapp3.1\Aula-Sobre-Ar.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\bin\Debug\netcoreapp3.1\Aula-Sobre-Ar.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\bin\Debug\netcoreapp3.1\Aula-Sobre-Ar.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\bin\Debug\netcoreapp3.1\Aula-Sobre-Ar.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\bin\Debug\netcoreapp3.1\Aula-Sobre-Ar.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\bin\Debug\netcoreapp3.1\Aula-Sobre-Ar.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\obj\Debug\netcoreapp3.1\Aula-Sobre-Ar.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\obj\Debug\netcoreapp3.1\Aula-Sobre-Ar.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\obj\Debug\netcoreapp3.1\Aula-Sobre-Ar.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\obj\Debug\netcoreapp3.1\Aula-Sobre-Ar.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\obj\Debug\netcoreapp3.1\Aula-Sobre-Ar.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\obj\Debug\netcoreapp3.1\Aula-Sobre-Ar.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Aula-Sobre-Ar\obj\Debug\netcoreapp3.1\Aula-Sobre-Ar.genruntimeconfig.cache
